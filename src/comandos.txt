@@ -1,0 +1,5 @@
+python3 demo.py amostra 10 --sem-treino
+python3 demo.py amostra 10 --pesos pesos/02_ruim_2neuronios.npz
+python3 demo.py amostra 10 --pesos pesos/02_ruim_eta_0.01.npz
+python3 demo.py amostra 10 --pesos pesos/03_100_50_30.npz
+python3 demo.py prever teste.png --pesos pesos/03_100_50_30.npz

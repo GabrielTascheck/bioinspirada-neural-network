@@ -1,0 +1,32 @@
+Arquitetura: [784, 2, 10]
+Epoch 0: 2884 / 10000
+Epoch 1: 2758 / 10000
+Epoch 2: 2800 / 10000
+Epoch 3: 2857 / 10000
+Epoch 4: 2855 / 10000
+Epoch 5: 3026 / 10000
+Epoch 6: 2926 / 10000
+Epoch 7: 3012 / 10000
+Epoch 8: 2788 / 10000
+Epoch 9: 3016 / 10000
+Epoch 10: 3026 / 10000
+Epoch 11: 2816 / 10000
+Epoch 12: 2869 / 10000
+Epoch 13: 2967 / 10000
+Epoch 14: 2839 / 10000
+Epoch 15: 2869 / 10000
+Epoch 16: 2963 / 10000
+Epoch 17: 2996 / 10000
+Epoch 18: 2904 / 10000
+Epoch 19: 2996 / 10000
+Epoch 20: 3027 / 10000
+Epoch 21: 2883 / 10000
+Epoch 22: 3003 / 10000
+Epoch 23: 2810 / 10000
+Epoch 24: 2756 / 10000
+Epoch 25: 2808 / 10000
+Epoch 26: 2762 / 10000
+Epoch 27: 3023 / 10000
+Epoch 28: 2867 / 10000
+Epoch 29: 2796 / 10000
+Pesos salvos em pesos/02_ruim_2neuronios.npz
